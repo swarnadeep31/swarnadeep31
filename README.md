@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React,Tailwind**
 
-- 📫 How to reach me **swarnadeeproy69@gmail.com**
+- 📫 How to reach me **swarnadeeproy57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
