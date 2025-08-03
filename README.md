@@ -23,13 +23,13 @@
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1m7DTkmRcBbDXCMiXt_EVy6ZCvtz2K_TG/view?usp=drive_link)
 - ⚡ Fun fact **I love to explore new technologies**
 
----
+
 
 ### 📊 LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/swarnadeeproy69?site=cn)
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -97,7 +97,7 @@
   </a>
 </p>
 
----
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="swarnadeep31" />
