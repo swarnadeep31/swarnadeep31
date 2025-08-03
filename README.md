@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="swarnadeep31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnadeep31&show_icons=true&locale=en" alt="swarnadeep31" /></p>
+![](https://leetcard.jacoblin.cool/swarnadeeproy69?theme=unicorn)
+![](https://leetcard.jacoblin.cool/swarnadeeproy69?theme=light,unicorn)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31&" alt="swarnadeep31" /></p>
 
