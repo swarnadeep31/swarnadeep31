@@ -62,7 +62,7 @@
 ### 📊 LeetCode Stats
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/swarnadeeproy69?site=cn" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/swarnadeepRoy?site=cn" alt="LeetCode Stats" />
 </p>
 
 ---
