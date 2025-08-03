@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Swarnadeep Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep31" /> 
 </p>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -106,11 +105,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31&" alt="swarnadeep31" />
 </p>
-
----
-
-### 🎥 Project Video
-
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
-
-> Replace `YOUTUBE_VIDEO_ID` with your actual YouTube video ID.
