@@ -61,8 +61,7 @@
 
 ### 📊 LeetCode Stats
 
-  <img src="https://leetcard.jacoblin.cool/swarnadeeproy69?ext=heatmap" alt="LeetCode Stats" />
-
+![](https://leetcard.jacoblin.cool/swarnadeeproy69?ext=heatmap)
 
 
 ---
