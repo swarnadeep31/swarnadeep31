@@ -13,6 +13,8 @@
   </a>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
+
 - 🔭 I’m currently working on **Car dealer website**
 - 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about **React, Tailwind**
