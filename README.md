@@ -27,9 +27,8 @@
 
 ##  LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/swarnadeeproy69?ext=heatmap)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/swarnadeeproy69?ext=heatmap)
+
 
 
 
