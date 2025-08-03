@@ -6,7 +6,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep31" /> 
 </p>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
