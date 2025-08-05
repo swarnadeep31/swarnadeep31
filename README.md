@@ -106,5 +106,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31&" alt="swarnadeep31" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeeproy69&" alt="swarnadeep31" />
 </p>
