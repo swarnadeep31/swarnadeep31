@@ -98,17 +98,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="swarnadeep31" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31" alt="swarnadeep31" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31" alt="GitHub Streak" />
 </p>
 
-</p>
