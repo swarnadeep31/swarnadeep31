@@ -73,7 +73,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swarnadeep31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarnadeep31&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+
 
 
