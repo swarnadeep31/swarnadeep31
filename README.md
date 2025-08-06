@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeep31" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnadeeproy69" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swarnadeep31&show_icons=true&locale=en" alt="GitHub Stats" />
