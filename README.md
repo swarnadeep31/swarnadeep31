@@ -27,7 +27,7 @@
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/swarnadeeproy69?ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/swarnadeeproy?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
