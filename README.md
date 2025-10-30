@@ -1,33 +1,31 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Swarnadeep Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=swarnadeep31&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy"/>
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
 
-- 🔭 I’m currently working on **Car dealer website**
+- 🔭 I’m currently working on **a Car Dealer Website**
 - 🌱 I’m currently learning **Docker**
-- 💬 Ask me about **React, Tailwind**
-- 👨‍💻 All of my projects are available at [swarnadeeproy.vercel.app](https://swarnadeeproy.vercel.app)
-- 📫 How to reach me **swarnadeeproy69@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1m7DTkmRcBbDXCMiXt_EVy6ZCvtz2K_TG/view?usp=drive_link)
-- ⚡ Fun fact **I love to explore new technologies**
+- 💬 Ask me about **React, TailwindCSS**
+- 👨‍💻 All of my projects are available at [**swarnadeeproy.vercel.app**](https://swarnadeeproy.vercel.app)
+- 📫 Reach me at **swarnadeeproy69@gmail.com**
+- 📄 Know more about me — [**View Resume**](https://drive.google.com/file/d/1m7DTkmRcBbDXCMiXt_EVy6ZCvtz2K_TG/view?usp=drive_link)
+- ⚡ Fun fact: **I love exploring new technologies!**
 
 ---
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/swarnadeeproy?ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/swarnadeeproy?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -35,13 +33,13 @@
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/swarnadeeproy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/swarnadeep.roy.90/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://leetcode.com/u/swarnadeeproy69/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
 
@@ -69,12 +67,9 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnadeep31&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarnadeep31&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
-
-
-
