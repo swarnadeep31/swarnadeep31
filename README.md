@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **React, TailwindCSS**
 - 👨‍💻 All of my projects are available at [**swarnadeeproy.vercel.app**](https://swarnadeeproy.vercel.app)
-- 📫 Reach me at **swarnadeeproy69@gmail.com**
+- 📫 Reach me at **swarnadeeproy57@gmail.com**
 - 📄 Know more about me — [**View Resume**](https://drive.google.com/file/d/1m7DTkmRcBbDXCMiXt_EVy6ZCvtz2K_TG/view?usp=drive_link)
 - ⚡ Fun fact: **I love exploring new technologies!**
 
@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/swarnadeep.roy.90/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/u/swarnadeeproy57/" target="_blank">
+  <a href="https://leetcode.com/u/swarnadeeproy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
