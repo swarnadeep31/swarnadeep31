@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/swarnadeep.roy.90/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/u/swarnadeeproy69/" target="_blank">
+  <a href="https://leetcode.com/u/swarnadeeproy57/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
