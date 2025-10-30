@@ -4,15 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swarnadeep31&title=Stars,Followers&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-</p>
-
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
 
 - 🔭 I’m currently working on **a Car Dealer Website**
