@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=swarnadeep31&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy"/>
-  </a>
+  ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swarnadeep31&title=Stars,Followers&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
