@@ -11,7 +11,7 @@
 - 💬 Ask me about **React, TailwindCSS**
 - 👨‍💻 All of my projects are available at [**swarnadeeproy.vercel.app**](https://swarnadeep200.vercel.app)
 - 📫 Reach me at **swarnadeeproy57@gmail.com**
-- 📄 Know more about me — [**View Resume**](https://drive.google.com/file/d/1m7DTkmRcBbDXCMiXt_EVy6ZCvtz2K_TG/view?usp=drive_link)
+- 📄 Know more about me — [**View Resume**](https://drive.google.com/file/d/1wrcUqW2BcratVLzSB2gnv8_X1wmoUPgT/view?usp=sharing)
 - ⚡ Fun fact: **I love exploring new technologies!**
 
 ---
