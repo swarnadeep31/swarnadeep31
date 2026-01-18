@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarnadeep Roy</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swarnadeep31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-shinigami-angry-bleach-anime-yhgocc0wb9lnhwae.gif">
-
 - 🔭 I’m currently working on **a Car Dealer Website**
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **React, TailwindCSS**
