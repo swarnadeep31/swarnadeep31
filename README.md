@@ -1,13 +1,51 @@
 <h1 align="center">Hi 👋, I'm Swarnadeep Roy</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js | India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **a Car Dealer Website**
-- 🌱 I’m currently learning **Docker**
-- 💬 Ask me about **React, TailwindCSS**
-- 👨‍💻 All of my projects are available at [**swarnadeeproy.vercel.app**](https://swarnadeep200.vercel.app)
-- 📫 Reach me at **swarnadeeproy57@gmail.com**
-- 📄 Know more about me — [**View Resume**](https://drive.google.com/file/d/1wrcUqW2BcratVLzSB2gnv8_X1wmoUPgT/view?usp=sharing)
-- ⚡ Fun fact: **I love exploring new technologies!**
+<p align="center">
+  Building scalable web applications with clean architecture, performance focus, and modern UI/UX.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building **AI-powered web applications**
+- 🌱 Exploring **Docker & scalable backend architectures**
+- 💬 Ask me about **React, Next.js, TypeScript, REST APIs**
+- 🌐 Portfolio: <a href="https://swarnadeep200.vercel.app" target="_blank">swarnadeep200.vercel.app</a>
+- 📫 Email: **swarnadeep040@gmail.com**
+- 📄 Resume: <a href="https://drive.google.com/file/d/1IrjvMgPbA625RaBztWS-OtlfwdEZPTxq/view?usp=sharing" target="_blank">View Resume</a>
+
+---
+
+### 🚀 Tech Stack
+
+**Frontend:**  
+React.js • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3  
+
+**Backend:**  
+Node.js • Express.js • REST APIs  
+
+**Databases:**  
+MongoDB • PostgreSQL  
+
+**Tools:**  
+Git • GitHub • VS Code  
+
+---
+
+### 🧠 Current Focus
+
+- AI-driven applications
+- API design & clean architecture
+- Performance-optimized UI systems
+- Scalable full-stack development
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning complex product ideas into clean, user-focused interfaces.
 
 ---
 
