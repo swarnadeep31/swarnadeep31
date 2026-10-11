@@ -27,32 +27,6 @@ const swarnadeep = {
 };
 ```
 
----
-
-## `> ls ./projects`
-
-### 🗺️ [TrailCast](https://github.com/swarnadeep31/RiderAI)
-Adventure videos with the map beside them. Paste a YouTube ride or trek and upload its GPX route, and a dot follows the video on the map as it plays. Clicking a key point jumps the video to that moment. Viewers can export the places to Google Maps, GPX, KML or a printable trip sheet.
-
-`React 19` `Vite` `Leaflet` `Express 5` `MongoDB` `JWT auth` `Vitest`
-
-### 📐 [Geospatial Measurement API](https://github.com/swarnadeep31/geospatial-measurement-api)
-Upload a KML file or a zipped Shapefile. The API detects the coordinate system, reprojects the data, and returns GeoJSON with polygon areas and line lengths. ZIP extraction is path-validated and the API is covered by pytest.
-
-`Python` `FastAPI` `GeoPandas` `Shapely` `PyProj` `SQLAlchemy` `pytest`
-
-### 📄 [PDF Chat (RAG)](https://github.com/swarnadeep31/rag-app)
-Upload a PDF and ask questions about it. The text is chunked, embedded and stored in ChromaDB, and the closest chunks go to Gemini to ground the answer.
-
-`Next.js` `TypeScript` `ChromaDB` `Gemini` `MongoDB`
-
-### 📊 [Job Tracker](https://github.com/swarnadeep31/ai-job-tracker)
-Track job applications from Applied → Interview → Offer → Rejected. Includes sign-in, filters, and a dashboard that charts applications over a chosen date range.
-
-`Next.js` `TypeScript` `NextAuth` `MongoDB` `Recharts` `Framer Motion`
-
----
-
 ## `> tech --list`
 
 <div align="center">
