@@ -3,14 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI-Powered+App+Builder;React+%2F+Next.js+%2F+TypeScript;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-swarnadeep200.vercel.app-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://swarnadeep200.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnadeeproy/)
-[![Email](https://img.shields.io/badge/Email-swarnadeep040@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swarnadeep040@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-swarnadeep31-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/swarnadeep31)
-
-</div>
 
 ---
 
