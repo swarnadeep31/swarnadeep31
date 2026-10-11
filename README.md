@@ -7,7 +7,6 @@
 I build full-stack web apps end to end: React and Next.js front ends, Node.js and FastAPI back ends, and AI features on top.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://swarnadeep200.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1IrjvMgPbA625RaBztWS-OtlfwdEZPTxq/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnadeep040@gmail.com)
 
 </div>
